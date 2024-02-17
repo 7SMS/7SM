@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HS20z
+- 👋 Hi, I’m @7SMS
 - 👀 I’m interested in programming and cyber security
 - 🌱 I’m currently learning programming 
 - 💞️ I’m looking to collaborate on programming 
